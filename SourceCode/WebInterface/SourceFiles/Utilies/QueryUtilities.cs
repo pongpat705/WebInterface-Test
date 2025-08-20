@@ -35,6 +35,7 @@ namespace WebInterface
     public static class ControllerNames
     {
         public const string LS="LS";
+        public const string MITSUBISHI="MITSUBISHI";
         public static bool LSdebug = false;
     }
 }
